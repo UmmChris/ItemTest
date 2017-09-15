@@ -17,6 +17,11 @@ textarea {
     max-width: 280px;
 }
 
+.no-padding{
+    padding: 0px!important;
+    margin: 0px!important;
+}
+
 /* Carousel */
 .carousel-caption p {
     font-size: 20px;
